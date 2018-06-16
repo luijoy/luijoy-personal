@@ -1,7 +1,7 @@
 html {
-  background-color: #5f45bb;
-  background-image: linear-gradient(to bottom right, #180cac, #d054e4);
-  color: #fff;
+background-color: #314755;
+background-image: linear-gradient(to right, #314755, #26a0da);
+color: #fff;
   font-family: "Quicksand", sans-serif;
   font-size: 16px;
   -moz-osx-font-smoothing: grayscale;
@@ -102,12 +102,12 @@ a {
 }
 
 .job {
-  color: #ffe479;
+  color: white;
   font-size: 0.75rem;
 }
 
 .hr {
-  background-color: #ff470f;
+  background-color: #26a0da;
   border: none;
   content: "";
   height: 1px;
@@ -131,7 +131,7 @@ a {
   background-color: #fff;
   border-radius: 290486px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-  color: #9013fe;
+  color: #26a0da;
   display: inline-block;
   font-size: 0.875rem;
   line-height: 1;
